@@ -1,0 +1,2 @@
+[31-Mar-2026 16:26:59 Europe/Berlin] Ollama call - HTTP: 0, Error: Operation timed out after 10047 milliseconds with 0 bytes received
+[31-Mar-2026 16:26:59 Europe/Berlin] Chat Error: Ollama connection failed: Operation timed out after 10047 milliseconds with 0 bytes received
